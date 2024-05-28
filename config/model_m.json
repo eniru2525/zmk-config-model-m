@@ -1,6 +1,9 @@
 {
+    "id": "model_m",
+    "name": "model_m",
     "layouts": {
-        "LAYOUT": {
+        "default_layout": {
+            "name": "default_layout",
             "layout": [
             { "row": 0, "col":   2, "x":     0, "y":   0, "label":  "0,2" },
             { "row": 2, "col":   3, "x":     2, "y":   0, "label":  "2,3" },
@@ -105,5 +108,6 @@
             { "row": 0, "col":  13, "x":  20.5, "y": 5.5, "label": "0,13" }
         ]
       }
-    }
+    },
+    "snesors": []
   }
