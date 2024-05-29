@@ -23,28 +23,8 @@
 
         ENT {
             bindings = <&kp ENTER>;
-            key-positions = <17 16>;
+            key-positions = <66 65>;
             timeout-ms = <50>;
-        };
-
-        BACKSP {
-            bindings = <&kp BACKSPACE>;
-            key-positions = <6 7>;
-        };
-
-        DELT {
-            bindings = <&kp DELETE>;
-            key-positions = <7 8>;
-        };
-
-        CTL {
-            bindings = <&kp LCTRL>;
-            key-positions = <19 18>;
-        };
-
-        AL {
-            bindings = <&kp LEFT_ALT>;
-            key-positions = <18 17>;
         };
     };
 
